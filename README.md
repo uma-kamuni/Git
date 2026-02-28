@@ -1,11 +1,7 @@
 STEP 1 — Create Repository on GitHub
-
 Go to https://github.com
-
 Click New Repository
-
 Repository name: Git
-
 Do NOT check "Add a README"
 
 -----------------------------------------------------------------------------
